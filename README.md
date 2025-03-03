@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SparklesAI](https://www.linkedin.com/company/sparklesai)
 
-- 🌱 I’m currently learning **NLP and Generative AI**
+- 🌱 I’m currently learning **NLP and Generative AI.**
 
 - 👨‍💻 I've worked on **full stack web development and built projects.**
 
