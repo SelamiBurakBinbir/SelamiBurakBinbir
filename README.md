@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selami Burak Binbir</h1>
 <h3 align="center">A passionate developer from Turkey.</h3>
 
-- 🔭 I’m currently working on [SparklesAI](https://usesparklesai.web.app/)
+- 🔭 I’m currently working on [SparklesAI](https://www.linkedin.com/company/sparklesai)
 
 - 🌱 I’m currently learning **NLP and Generative AI**
 
