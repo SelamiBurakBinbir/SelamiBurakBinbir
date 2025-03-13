@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Selami Burak Binbir</h1>
 <h3 align="center">A passionate developer from Turkey.</h3>
 
-- 🔭 I’m currently working on [SparklesAI](https://www.linkedin.com/company/sparklesai)
+- 🔭 I’m currently working on [SparklesAI.](https://www.linkedin.com/company/sparklesai)
 
 - 🌱 I’m currently learning **NLP and Generative AI.**
 
-- 👨‍💻 I've worked on **full stack web development and built projects.**
+- 👨‍💻 I've worked on **front-end and full-stack web development and built projects.**
+
+- 🌐 **You can explore all of my projects directly online! I’ve provided live links to each of them in the README sections, so feel free to try them out and see how they work in real-time!**
 
 - 📫 How to reach me: **sbbinbir@gmail.com**
 
