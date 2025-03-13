@@ -9,8 +9,6 @@
 
 - 🌐 **You can explore all of my projects directly online! I’ve provided live links to each of them in the README sections, so feel free to try them out and see how they work in real-time!**
 
-- 📫 How to reach me: **sbbinbir@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/selami-burak-binbir-746761234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selami-burak-binbir-746761234" height="30" width="40" /></a>
